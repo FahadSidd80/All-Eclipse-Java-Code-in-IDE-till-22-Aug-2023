@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="conditionHistory">
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=New_Project_Java/src&amp;lt;{C.java[C&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java_Language_Fundamentals_type_of_var_to_Java_Cdng_Standrd_6-10/src&amp;lt;{Java_Main_Method.java[Java_Main_Method&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java_Language_Fundamentals_type_of_var_to_Java_Cdng_Standrd_6-10/src&amp;lt;{Java_Fundamentals_Instance_Var.java[Java_Fundamentals_Instance_Var&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=5_Java_Declaration_And_AccessModifier/src&amp;lt;{A.java[d&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=5_Java_Declaration_And_AccessModifier/src&amp;lt;{Java_SourceFile_Structure.java[d&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=5_Java_Declaration_And_AccessModifier/src&amp;lt;{Java_SourceFile_Structure.java[B&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=5_Java_Declaration_And_AccessModifier/src&amp;lt;{Java_SourceFile_Structure.java[A&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=5_Java_Declaration_And_AccessModifier/src&amp;lt;{Java_SourceFile_Structure.java[Java_SourceFile_Structure&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=5_Java_Declaration_And_AccessModifier/src&amp;lt;pack1protected{proc1.java[B&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="383"/>
+			<item key="DIALOG_Y_ORIGIN" value="188"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="expressionHistory">
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="1020"/>
+		<item key="HEIGHT" value="320"/>
+		<item key="SashWeightTree" value="200"/>
+		<item key="SashWeightDetails" value="200"/>
+	</section>
+</section>

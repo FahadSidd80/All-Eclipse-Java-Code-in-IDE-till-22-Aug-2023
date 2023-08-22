@@ -1,0 +1,45 @@
+
+public class For_Loops {
+
+	public static void main(String[] args) {
+//	for(int i=0;true; i++)
+//	{
+//		System.out.println("Hello !!");
+//	}
+//	System.out.println("Hii !!");
+	
+//	for(int i=0;false; i++)
+//	{
+//		System.out.println("Hello !!");
+//	}
+//	System.out.println("Hii !!");
+//		
+//		int a=10, b=20;
+//		for(int i=0; ; i++)
+//		{
+//			System.out.println("Hello !!");
+//		}
+//		System.out.println("Hii !!");
+//		
+//		int a=10, b=20;
+//		for(int i=0; a<b ; i++) 
+//		{
+//			System.out.println("Hello");
+//		}
+//		System.out.println("Hii !!");
+//		
+//		int a=10, b=20;
+//		for(int i=0; a<b; i++) {
+//			System.out.println("Hello !" + i);
+//		}
+//		System.out.println("Hii !!");
+
+		
+		final int a=10, b=20;
+		for(int i=0; a<b; i++) {
+			System.out.println("Hello !");
+		}
+		System.out.println("Hii !!");
+	}
+
+}

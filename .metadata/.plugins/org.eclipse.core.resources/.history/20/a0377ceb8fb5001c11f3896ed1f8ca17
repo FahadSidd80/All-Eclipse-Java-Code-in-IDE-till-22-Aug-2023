@@ -1,0 +1,117 @@
+import java.util.Scanner;
+
+public class Second_Java_class {
+
+	public static void main(String[] args) {
+		
+//		System.out.println("Welcome to registration form page");
+//		System.out.println("================================= \n\n\n");
+//		
+//		Scanner scn = new Scanner(System.in);
+//		
+//		System.out.print("Enter user name : ");
+//		String userName =  scn.nextLine();
+//		
+//		System.out.print("Enter password : ");
+//		String password = scn.nextLine();
+//		
+//		System.out.println("\n\n");
+//		
+//		System.out.println("Dear " + userName + ".");
+//		System.out.println(userName +" !! " + " You have registered successfully  \n\n\n");
+//		
+//		
+//		System.out.println("Welcome to login Page");
+//		System.out.println("==========================");
+//		System.out.println();
+//		
+//		System.out.print("Enter you user name : ");
+//		String UserName = scn.nextLine();
+//		
+//		System.out.print("Enter your password : ");
+//		String Password = scn.nextLine();
+//		
+//		System.out.println("\n\n");
+//		
+//		if(userName == UserName && password == Password)
+//		{
+//			System.out.println("Login Succeed " +UserName+ " babu !!" );
+//			System.out.println("Welcome to Home " +UserName+ "genius");
+//			
+//		}
+//		else 
+//		{
+//			System.out.println("Username/Password is incorrcet, please try again " +UserName+ " beta" + " !! ");
+//		}
+//		
+		
+//		Scanner scn = new Scanner(System.in);
+//		System.out.print("Enter your Age : ");
+//		int age = scn.nextInt();
+//		
+//		
+//		if (age >= 18)
+//		{
+//			System.out.println("You are eligible for vote !!");
+//		}
+//		else 
+//		{
+//			System.out.println("You are not eligible for vote !!");
+//		}
+		
+//		Scanner scn = new Scanner(System.in);
+//		
+//		System.out.print("Enter user name : ");
+//		String userName = scn.nextLine();
+//		
+//		
+//		System.out.print("Enter  Password : ");
+//		String password = scn.nextLine();
+//		
+//		
+//		System.out.println("registered successfully !!");
+		
+//		------------------------------------------
+		
+		System.out.println("Login Page");
+		Scanner scn = new Scanner(System.in);
+		
+		System.out.print("Enter user name : ");
+		String UserName = scn.nextLine();
+		
+		
+		System.out.print("Enter  Password : ");
+		String Password = scn.nextLine();
+		
+		System.out.println("Welcome to login Page !");
+		
+		System.out.println("Enter User Name  !");
+		String userName = scn.nextLine();
+		
+		System.out.println("Enter User Name  !");
+		String password = scn.nextLine();
+		
+		
+		if(UserName == userName && Password == password)
+		{
+			System.out.println("LogIn Succeed !!");
+		}
+		else 
+		{
+			System.out.println("Username/password incorrect");
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

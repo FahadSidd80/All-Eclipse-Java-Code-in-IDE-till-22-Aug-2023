@@ -1,0 +1,23 @@
+
+public class Java_Local_Variable {
+	 public static void main(String[] args) {
+//		 3.Local variable :- temporary var./ automatic var./ stack var.
+//		 declared inside method/block/constructor
+		 
+//		 int x = 10;
+//		
+//		 System.out.println(x); // 10 inside main method/ block
+//		Constructor concept nahi samajh aaya
+		 
+		 for
+		
+	 }
+// Java_Local_Variable(){
+//		 int x = 120;
+//		 System.out.println(x);
+//		
+//	 }
+//	 System.out.println(x); // Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+}
+

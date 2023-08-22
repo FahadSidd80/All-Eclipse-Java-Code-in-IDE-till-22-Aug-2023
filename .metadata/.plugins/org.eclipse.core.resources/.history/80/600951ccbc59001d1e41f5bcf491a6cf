@@ -1,0 +1,103 @@
+import java.util.*;
+public class Fundamentals_Coding_Questns {
+
+	public static void main(String[] args) {
+		
+//1.	System.out.println("Hello \nJohn Smith");
+		// Taking input from user 
+	/*	Scanner scn = new Scanner(System.in);
+		System.out.println("Enter First name :");
+		String fname = scn.next();
+		System.out.println("Enter last name :");
+		String lname = scn.next();
+		System.out.println("Hello\n"+fname+"  "+lname);*/
+//----------------------------------------------------------------------
+//	2.  Sum of two numbers
+//		System.out.println(12+13);
+		// Taking input from user
+	/* Scanner scn = new Scanner(System.in);
+		System.out.println("Input first number :");
+		int num1 = scn.nextInt();
+		System.out.println("Input second number :'");
+		int num2 = scn.nextInt();
+		int sum = num1 +num2;
+		System.out.println("Sum of 2 number is :"+sum);*/
+//------------------------------------------------------------------------------
+//	3.  Divide 2 numbers
+//		System.out.println(23/5); // returns Quotient and int type
+//		Scanner scn = new Scanner(System.in);
+//		System.out.println("Enter first number :");
+//		int num1 = scn.nextInt();
+//		System.out.println("Enter second number :");
+//		int num2 = scn.nextInt();
+//		int quot = num1/num2;
+//		System.out.println("Divisor quotnt is :" +quot);
+		
+//	4.  result of following operations
+
+//		System.out.println(-5 + 8 * 6);
+//		System.out.println((55+9) % 9);
+//		System.out.println(20 + -3*5 / 8);
+//		
+		
+//		int x= -5 + 8 * 6 ;
+//		
+//		int y= (55+9) % 9;
+//		int z = (20 + -3*5 / 8);
+//		int a= (5 + 15 / 3 * 2 - 8 % 3);
+//		System.out.println(x);
+//		System.out.println(y);
+//		System.out.println(z);
+//		System.out.println(a);
+		
+//		5. Takes 2 no and prints sum of these 2 number
+		
+//		Scanner sc = new Scanner(System.in);
+//		System.out.println("Input number 1st :");
+//		int num1 = sc.nextInt();
+//		System.out.println("Input number 2nd : ");
+//		int num2 = sc.nextInt();
+//		int sum = num1 + num2;
+//		System.out.println("Sum of 2 no i.e." + num1 +" & " + num2 + " is := " +sum);
+//		
+//		5. 5. Takes 2 no and prints product of these 2 number
+//		Scanner sc = new Scanner(System.in);
+//		System.out.println("Input no 1 :");
+//		int num1 = sc.nextInt();
+//		System.out.println("Input number 2 : ");
+//		int num2 = sc.nextInt();
+////		int prod = num1 * num2;
+////		System.out.println(num1 +" & "+num2 + " is = " +prod);
+//		System.out.println("Product of " +num1 +" & "+ num2 + " is : " + num1 * num2);
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Input 1st number : ");
+		int num1 = sc.nextInt();
+		System.out.println("Input 2nd Number : ");
+		int num2 = sc.nextInt();
+//		System.out.println("Substraction of " + num1 + " & " +num2 + "is :" + (num1 - num2) );
+//		System.out.println("Addition of " + num1 + " & " +num2 + "is :" + (num1 + num2));
+//		System.out.println("Multliplication of " + num1 + " & " +num2 + "is :" + (num1 * num2));
+//		System.out.println("Division of " + num1 + " & " +num2 + "is :" + (num1 / num2));
+//		System.out.println("Remainder of " + num1 + " & " +num2 + "is :" + (num1 % num2));
+		
+//		int sum = num1 + num2 ;
+//		int Minus = num1 - num2 ;
+//		int Multiply = num1 * num2 ;
+//		int Division = num1 / num2 ;
+//		int moduloReaminder = num1 % num2 ;
+//		System.out.printf("Sum is = %d", sum);
+		
+//		 7 table  of 8
+		
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+			
+		
+		
+		
+	}
+
+}
